@@ -2,16 +2,16 @@ import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
-  logo: <span>My Project</span>,
+  logo: <span>Spyder Docs</span>,
   project: {
-    link: 'https://github.com/shuding/nextra-docs-template',
+    link: 'https://github.com/raveshare/spectra',
   },
   chat: {
-    link: 'https://discord.com',
+    link: 'https://t.me/spyderbuilderchat',
   },
-  docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
+  docsRepositoryBase: 'https://github.com/raveshare/docs',
   footer: {
-    text: 'Nextra Docs Template',
+    text: 'Spectra / 24',
   },
 }
 
