@@ -6,9 +6,6 @@ const config: DocsThemeConfig = {
   project: {
     link: 'https://github.com/raveshare/spectra',
   },
-  chat: {
-    link: 'https://t.me/spyderbuilderchat',
-  },
   docsRepositoryBase: 'https://github.com/raveshare/docs',
   footer: {
     text: 'Spectra / 24',
